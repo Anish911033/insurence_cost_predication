@@ -3,6 +3,7 @@
 An end-to-end machine learning project that estimates an individual's yearly medical insurance charges from demographic and health details, deployed as a live web app.
 
 🔗 **Live App:** https://insurence-cost-predication.onrender.com/
+
 📊 **Dataset:** [medical_insurance.csv](https://github.com/Anish911033/insurence_cost_predication/blob/main/medical_insurance.csv)
 
 > ⏳ The app is hosted on Render's free plan, so it sleeps after inactivity. The first load may take 30–60 seconds.
